@@ -1,0 +1,8 @@
+c:\users\mishaleman\documents\visual studio 2010\Projects\Puzzle_try\Puzzle_try\bin\Debug\Puzzle_try.exe
+c:\users\mishaleman\documents\visual studio 2010\Projects\Puzzle_try\Puzzle_try\bin\Debug\Puzzle_try.pdb
+c:\users\mishaleman\documents\visual studio 2010\Projects\Puzzle_try\Puzzle_try\obj\x86\Debug\Puzzle_try.Form1.resources
+c:\users\mishaleman\documents\visual studio 2010\Projects\Puzzle_try\Puzzle_try\obj\x86\Debug\Puzzle_try.Properties.Resources.resources
+c:\users\mishaleman\documents\visual studio 2010\Projects\Puzzle_try\Puzzle_try\obj\x86\Debug\Puzzle_try.csproj.GenerateResource.Cache
+c:\users\mishaleman\documents\visual studio 2010\Projects\Puzzle_try\Puzzle_try\obj\x86\Debug\Puzzle_try.exe
+c:\users\mishaleman\documents\visual studio 2010\Projects\Puzzle_try\Puzzle_try\obj\x86\Debug\Puzzle_try.pdb
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Puzzle_try\Puzzle_try\obj\x86\Debug\Puzzle_try.csprojResolveAssemblyReference.cache

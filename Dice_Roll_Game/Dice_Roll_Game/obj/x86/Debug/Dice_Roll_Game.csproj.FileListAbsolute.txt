@@ -1,0 +1,9 @@
+c:\users\mishaleman\documents\visual studio 2010\Projects\Dice_Roll_Game\Dice_Roll_Game\bin\Debug\Dice_Roll_Game.exe
+c:\users\mishaleman\documents\visual studio 2010\Projects\Dice_Roll_Game\Dice_Roll_Game\bin\Debug\Dice_Roll_Game.pdb
+c:\users\mishaleman\documents\visual studio 2010\Projects\Dice_Roll_Game\Dice_Roll_Game\obj\x86\Debug\Dice_Roll_Game.Form1.resources
+c:\users\mishaleman\documents\visual studio 2010\Projects\Dice_Roll_Game\Dice_Roll_Game\obj\x86\Debug\Dice_Roll_Game.Form2.resources
+c:\users\mishaleman\documents\visual studio 2010\Projects\Dice_Roll_Game\Dice_Roll_Game\obj\x86\Debug\Dice_Roll_Game.Properties.Resources.resources
+c:\users\mishaleman\documents\visual studio 2010\Projects\Dice_Roll_Game\Dice_Roll_Game\obj\x86\Debug\Dice_Roll_Game.csproj.GenerateResource.Cache
+c:\users\mishaleman\documents\visual studio 2010\Projects\Dice_Roll_Game\Dice_Roll_Game\obj\x86\Debug\Dice_Roll_Game.exe
+c:\users\mishaleman\documents\visual studio 2010\Projects\Dice_Roll_Game\Dice_Roll_Game\obj\x86\Debug\Dice_Roll_Game.pdb
+C:\Users\mishAlemAn\documents\visual studio 2010\Projects\Dice_Roll_Game\Dice_Roll_Game\obj\x86\Debug\Dice_Roll_Game.csprojResolveAssemblyReference.cache
